@@ -13,7 +13,7 @@ It is **FREE** so why not? Btw, I'm not paid for this advertisement or something
 
 
 ## Introduction
-I am a student and coding hobbyist from India. I am really interested in programming languages since *sometime*, yeah a few years ain't a lot. I tried to follow some tutorials on *YouTube* before, they were decent and gave me some idea, until I reached parsing. It just turned into an ideal *easy drawing tutorial*. Nevertheless, I was too scared to try implement everything myself, until a post saved my life. I saw a video that was trying to follow, no other than, **coughs, no more advertisement, I remember.*
+I am a student and coding hobbyist from India. I am really interested in programming languages since *sometime*, yeah a few years ain't a lot. I tried to follow some tutorials on *YouTube* before, they were decent and gave me some idea, until I reached parsing. It just turned into an ideal *easy drawing tutorial*. Nevertheless, I was too scared to try implement everything myself, until a post saved my life. I saw a video that was trying to follow, none other than, **coughs, no more advertisement, I remember.*
 
 
 ## Trying It Out
