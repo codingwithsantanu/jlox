@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lox
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=path
+comment2.target=void\ runFile(java.lang.String)
+comment3.params=
+comment3.target=void\ runPrompt()
+comment4.params=source
+comment4.target=void\ run(java.lang.String)
+comment5.params=line\ message
+comment5.target=void\ error(int,\ java.lang.String)
+comment6.params=line\ where\ message
+comment6.target=void\ report(int,\ java.lang.String,\ java.lang.String)
+numComments=7
